@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# swp files
+*.swp
+
 # testing
 /coverage
 
